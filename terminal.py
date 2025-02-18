@@ -8,3 +8,5 @@ Este é um arquivo de script temporário.
 print("Exemplo via terminal")
 
 print("Ah, uma nova ideia")
+
+print("Agora sim")
